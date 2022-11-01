@@ -1,2 +1,2 @@
-# robotics
+# Robotics
 Python programs for robotics
