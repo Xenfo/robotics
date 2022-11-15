@@ -42,4 +42,4 @@ while True:
         elif reflected_light <= 40:
             get_away_from_edge()
         else:
-            movement_motors.start_tank(-10, 20)
+            movement_motors.start_tank(-20, 30)
